@@ -7,11 +7,11 @@ namespace TowersOfHanoi
     {
         static void Main(string[] args)
         {
-            TowerOfHanoi T = new TowerOfHanoi();
+            TowerOfHanoi TOH = new TowerOfHanoi();
             Console.Write("Enter the number of discs: ");
-            string cnumdiscs = Console.ReadLine();
+            var cnumdiscs = Console.ReadLine();
             TowerOfHanoi.numdiscs = Convert.ToInt32(cnumdiscs);
-            T.ReadInpuAndStart();
+            TOH.ReadInpuAndStart();
         }
     }
 
@@ -35,13 +35,11 @@ namespace TowersOfHanoi
             }
         }
 
-        private void MoveTower(int disc, int moveForm, int moveTo, int other)
+        private void MoveTower(int disc, int moveForm, int moveTo)
         {
             if (disc > 0)
             {
-                //MoveTower(disc - 1, from, other, to);
                 MoveVisual(disc, moveForm, moveTo);
-                //MoveTower(disc - 1, other, to, from);
             }
         }
 
@@ -66,7 +64,6 @@ namespace TowersOfHanoi
 
         private bool DiscExists(int stack, int value)
         {
-
             return Convert.ToInt32(towers[stack - 1].Peek()) == value;
         }
 
@@ -110,7 +107,7 @@ namespace TowersOfHanoi
                 var discTo = Console.ReadLine();
                 var moveTo = Convert.ToInt32(discTo);
 
-                MoveTower(numDisc, moveFrom, moveTo, 3);
+                MoveTower(numDisc, moveFrom, moveTo);
                 WriteStackInConsoleAfterProcessing();
 
                 if (IsSameStack(towers[2], tmpStack))
@@ -123,7 +120,6 @@ namespace TowersOfHanoi
         private bool IsSameStack(Stack stack1, Stack stack2)
         {
             bool flag = true;
-
             if (stack1.Count != stack2.Count)
             {
                 flag = false;

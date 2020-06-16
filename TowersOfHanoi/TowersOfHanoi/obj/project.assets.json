@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KhaldounKalash\\source\\repos\\TowersOfHanoi\\TowersOfHanoi\\TowersOfHanoi.csproj",
+      "projectUniqueName": "C:\\Projekte\\Übungen\\TowersOfHanoi\\TowersOfHanoi\\TowersOfHanoi.csproj",
       "projectName": "TowersOfHanoi",
-      "projectPath": "C:\\Users\\KhaldounKalash\\source\\repos\\TowersOfHanoi\\TowersOfHanoi\\TowersOfHanoi.csproj",
+      "projectPath": "C:\\Projekte\\Übungen\\TowersOfHanoi\\TowersOfHanoi\\TowersOfHanoi.csproj",
       "packagesPath": "C:\\Users\\KhaldounKalash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KhaldounKalash\\source\\repos\\TowersOfHanoi\\TowersOfHanoi\\obj\\",
+      "outputPath": "C:\\Projekte\\Übungen\\TowersOfHanoi\\TowersOfHanoi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
