@@ -7,11 +7,12 @@ namespace TowersOfHanoi
     {
         static void Main(string[] args)
         {
-            TowerOfHanoi TOH = new TowerOfHanoi();
+            TowerOfHanoi T = new TowerOfHanoi();
             Console.Write("Enter the number of discs: ");
-            var cnumdiscs = Console.ReadLine();
+            string cnumdiscs = Console.ReadLine();
             TowerOfHanoi.numdiscs = Convert.ToInt32(cnumdiscs);
-            TOH.ReadInpuAndStart();
+            T.initializeTowers();
+            T.MoveTower(TowerOfHanoi.numdiscs, 1, 3, 2);
         }
     }
 
@@ -22,7 +23,7 @@ namespace TowersOfHanoi
 
         public static int numdiscs { get; set; }
 
-        private void initializeTowers()
+        public void initializeTowers()
         {
             for (int i = 0; i < towers.Length; i++)
             {
@@ -35,11 +36,14 @@ namespace TowersOfHanoi
             }
         }
 
-        private void MoveTower(int disc, int moveForm, int moveTo)
+        public void MoveTower(int disc, int moveForm, int moveTo, int other)
         {
             if (disc > 0)
             {
+                MoveTower(disc - 1, moveForm, other, moveTo);
                 MoveVisual(disc, moveForm, moveTo);
+                WriteStackInConsoleAfterProcessing();
+                MoveTower(disc - 1, other, moveTo, moveForm);
             }
         }
 
@@ -64,6 +68,7 @@ namespace TowersOfHanoi
 
         private bool DiscExists(int stack, int value)
         {
+
             return Convert.ToInt32(towers[stack - 1].Peek()) == value;
         }
 
@@ -107,7 +112,7 @@ namespace TowersOfHanoi
                 var discTo = Console.ReadLine();
                 var moveTo = Convert.ToInt32(discTo);
 
-                MoveTower(numDisc, moveFrom, moveTo);
+                MoveTower(numDisc, moveFrom, moveTo, 3);
                 WriteStackInConsoleAfterProcessing();
 
                 if (IsSameStack(towers[2], tmpStack))
@@ -120,6 +125,7 @@ namespace TowersOfHanoi
         private bool IsSameStack(Stack stack1, Stack stack2)
         {
             bool flag = true;
+
             if (stack1.Count != stack2.Count)
             {
                 flag = false;

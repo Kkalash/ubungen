@@ -11,3 +11,16 @@ C:\Users\KhaldounKalash\source\repos\TowersOfHanoi\TowersOfHanoi\obj\Debug\netco
 C:\Users\KhaldounKalash\source\repos\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.dll
 C:\Users\KhaldounKalash\source\repos\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.pdb
 C:\Users\KhaldounKalash\source\repos\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.genruntimeconfig.cache
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.1\TowersOfHanoi.exe
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.1\TowersOfHanoi.deps.json
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.1\TowersOfHanoi.runtimeconfig.json
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.1\TowersOfHanoi.runtimeconfig.dev.json
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.1\TowersOfHanoi.dll
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\bin\Debug\netcoreapp3.1\TowersOfHanoi.pdb
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.csprojAssemblyReference.cache
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.csproj.CoreCompileInputs.cache
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.AssemblyInfoInputs.cache
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.AssemblyInfo.cs
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.dll
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.pdb
+C:\Projekte\Übungen\TowersOfHanoi\TowersOfHanoi\obj\Debug\netcoreapp3.1\TowersOfHanoi.genruntimeconfig.cache
