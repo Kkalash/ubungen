@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\bin\Debug\netcoreapp3.1\WindowsDirectory.exe
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\bin\Debug\netcoreapp3.1\WindowsDirectory.deps.json
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\bin\Debug\netcoreapp3.1\WindowsDirectory.runtimeconfig.json
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\bin\Debug\netcoreapp3.1\WindowsDirectory.runtimeconfig.dev.json
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\bin\Debug\netcoreapp3.1\WindowsDirectory.dll
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\bin\Debug\netcoreapp3.1\WindowsDirectory.pdb
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.csprojAssemblyReference.cache
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.AssemblyInfo.cs
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.dll
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.pdb
+C:\Projekte\ubungen\WindowsDirectory\WindowsDirectory\obj\Debug\netcoreapp3.1\WindowsDirectory.genruntimeconfig.cache

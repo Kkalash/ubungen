@@ -1,0 +1,13 @@
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\bin\Debug\netcoreapp3.1\InputIntegerNumber.exe
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\bin\Debug\netcoreapp3.1\InputIntegerNumber.deps.json
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\bin\Debug\netcoreapp3.1\InputIntegerNumber.runtimeconfig.json
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\bin\Debug\netcoreapp3.1\InputIntegerNumber.runtimeconfig.dev.json
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\bin\Debug\netcoreapp3.1\InputIntegerNumber.dll
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\bin\Debug\netcoreapp3.1\InputIntegerNumber.pdb
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.csprojAssemblyReference.cache
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.AssemblyInfo.cs
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.dll
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.pdb
+C:\Users\KhaldounKalash\source\repos\InputIntegerNumber\InputIntegerNumber\obj\Debug\netcoreapp3.1\InputIntegerNumber.genruntimeconfig.cache

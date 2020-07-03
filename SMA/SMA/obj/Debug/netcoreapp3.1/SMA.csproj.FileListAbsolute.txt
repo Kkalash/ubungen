@@ -1,0 +1,12 @@
+C:\Projekte\ubungen\SMA\SMA\bin\Debug\netcoreapp3.1\SMA.exe
+C:\Projekte\ubungen\SMA\SMA\bin\Debug\netcoreapp3.1\SMA.deps.json
+C:\Projekte\ubungen\SMA\SMA\bin\Debug\netcoreapp3.1\SMA.runtimeconfig.json
+C:\Projekte\ubungen\SMA\SMA\bin\Debug\netcoreapp3.1\SMA.runtimeconfig.dev.json
+C:\Projekte\ubungen\SMA\SMA\bin\Debug\netcoreapp3.1\SMA.dll
+C:\Projekte\ubungen\SMA\SMA\bin\Debug\netcoreapp3.1\SMA.pdb
+C:\Projekte\ubungen\SMA\SMA\obj\Debug\netcoreapp3.1\SMA.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\SMA\SMA\obj\Debug\netcoreapp3.1\SMA.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\SMA\SMA\obj\Debug\netcoreapp3.1\SMA.AssemblyInfo.cs
+C:\Projekte\ubungen\SMA\SMA\obj\Debug\netcoreapp3.1\SMA.dll
+C:\Projekte\ubungen\SMA\SMA\obj\Debug\netcoreapp3.1\SMA.pdb
+C:\Projekte\ubungen\SMA\SMA\obj\Debug\netcoreapp3.1\SMA.genruntimeconfig.cache
