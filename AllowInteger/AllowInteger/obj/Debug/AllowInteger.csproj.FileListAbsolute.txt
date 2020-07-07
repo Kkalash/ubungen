@@ -1,0 +1,10 @@
+C:\Projekte\ubungen\AllowInteger\AllowInteger\bin\Debug\AllowInteger.exe.config
+C:\Projekte\ubungen\AllowInteger\AllowInteger\bin\Debug\AllowInteger.exe
+C:\Projekte\ubungen\AllowInteger\AllowInteger\bin\Debug\AllowInteger.pdb
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.csprojAssemblyReference.cache
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.Form1.resources
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.Properties.Resources.resources
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.csproj.GenerateResource.cache
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.exe
+C:\Projekte\ubungen\AllowInteger\AllowInteger\obj\Debug\AllowInteger.pdb
