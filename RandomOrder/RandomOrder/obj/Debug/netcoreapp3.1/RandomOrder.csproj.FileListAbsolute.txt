@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\RandomOrder\RandomOrder\bin\Debug\netcoreapp3.1\RandomOrder.exe
+C:\Projekte\ubungen\RandomOrder\RandomOrder\bin\Debug\netcoreapp3.1\RandomOrder.deps.json
+C:\Projekte\ubungen\RandomOrder\RandomOrder\bin\Debug\netcoreapp3.1\RandomOrder.runtimeconfig.json
+C:\Projekte\ubungen\RandomOrder\RandomOrder\bin\Debug\netcoreapp3.1\RandomOrder.runtimeconfig.dev.json
+C:\Projekte\ubungen\RandomOrder\RandomOrder\bin\Debug\netcoreapp3.1\RandomOrder.dll
+C:\Projekte\ubungen\RandomOrder\RandomOrder\bin\Debug\netcoreapp3.1\RandomOrder.pdb
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.csprojAssemblyReference.cache
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.AssemblyInfo.cs
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.dll
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.pdb
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.genruntimeconfig.cache
+C:\Projekte\ubungen\RandomOrder\RandomOrder\obj\Debug\netcoreapp3.1\RandomOrder.csproj.CoreCompileInputs.cache
