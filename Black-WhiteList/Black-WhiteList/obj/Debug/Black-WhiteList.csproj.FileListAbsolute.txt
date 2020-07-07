@@ -1,0 +1,10 @@
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\bin\Debug\Black-WhiteList.exe.config
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\bin\Debug\Black-WhiteList.exe
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\bin\Debug\Black-WhiteList.pdb
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black-WhiteList.csprojAssemblyReference.cache
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black_WhiteList.Form1.resources
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black_WhiteList.Properties.Resources.resources
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black-WhiteList.csproj.GenerateResource.cache
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black-WhiteList.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black-WhiteList.exe
+C:\Projekte\ubungen\Black-WhiteList\Black-WhiteList\obj\Debug\Black-WhiteList.pdb

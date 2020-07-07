@@ -1,0 +1,10 @@
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\bin\Debug\ThreeDimensional.exe.config
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\bin\Debug\ThreeDimensional.exe
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\bin\Debug\ThreeDimensional.pdb
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.csprojAssemblyReference.cache
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.Form1.resources
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.Properties.Resources.resources
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.csproj.GenerateResource.cache
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.exe
+C:\Projekte\ubungen\ThreeDimensional\ThreeDimensional\obj\Debug\ThreeDimensional.pdb
