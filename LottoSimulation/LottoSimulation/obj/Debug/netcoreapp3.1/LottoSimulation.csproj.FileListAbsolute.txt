@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\bin\Debug\netcoreapp3.1\LottoSimulation.exe
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\bin\Debug\netcoreapp3.1\LottoSimulation.deps.json
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\bin\Debug\netcoreapp3.1\LottoSimulation.runtimeconfig.json
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\bin\Debug\netcoreapp3.1\LottoSimulation.runtimeconfig.dev.json
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\bin\Debug\netcoreapp3.1\LottoSimulation.dll
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\bin\Debug\netcoreapp3.1\LottoSimulation.pdb
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.csprojAssemblyReference.cache
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.AssemblyInfo.cs
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.dll
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.pdb
+C:\Projekte\ubungen\LottoSimulation\LottoSimulation\obj\Debug\netcoreapp3.1\LottoSimulation.genruntimeconfig.cache

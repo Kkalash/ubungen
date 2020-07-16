@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\bin\Debug\netcoreapp3.1\SequenceOfNumbers.exe
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\bin\Debug\netcoreapp3.1\SequenceOfNumbers.deps.json
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\bin\Debug\netcoreapp3.1\SequenceOfNumbers.runtimeconfig.json
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\bin\Debug\netcoreapp3.1\SequenceOfNumbers.runtimeconfig.dev.json
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\bin\Debug\netcoreapp3.1\SequenceOfNumbers.dll
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\bin\Debug\netcoreapp3.1\SequenceOfNumbers.pdb
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.csprojAssemblyReference.cache
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.AssemblyInfo.cs
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.dll
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.pdb
+C:\Projekte\ubungen\SequenceOfNumbers\SequenceOfNumbers\obj\Debug\netcoreapp3.1\SequenceOfNumbers.genruntimeconfig.cache
