@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\bin\Debug\netcoreapp3.1\AutoGuessNumber.exe
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\bin\Debug\netcoreapp3.1\AutoGuessNumber.deps.json
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\bin\Debug\netcoreapp3.1\AutoGuessNumber.runtimeconfig.json
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\bin\Debug\netcoreapp3.1\AutoGuessNumber.runtimeconfig.dev.json
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\bin\Debug\netcoreapp3.1\AutoGuessNumber.dll
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\bin\Debug\netcoreapp3.1\AutoGuessNumber.pdb
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.csprojAssemblyReference.cache
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.AssemblyInfo.cs
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.dll
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.pdb
+C:\Projekte\ubungen\AutoGuessNumber\AutoGuessNumber\obj\Debug\netcoreapp3.1\AutoGuessNumber.genruntimeconfig.cache
