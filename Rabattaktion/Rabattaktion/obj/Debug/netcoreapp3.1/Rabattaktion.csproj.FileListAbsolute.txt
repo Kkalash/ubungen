@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\bin\Debug\netcoreapp3.1\Rabattaktion.exe
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\bin\Debug\netcoreapp3.1\Rabattaktion.deps.json
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\bin\Debug\netcoreapp3.1\Rabattaktion.runtimeconfig.json
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\bin\Debug\netcoreapp3.1\Rabattaktion.runtimeconfig.dev.json
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\bin\Debug\netcoreapp3.1\Rabattaktion.dll
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\bin\Debug\netcoreapp3.1\Rabattaktion.pdb
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.csprojAssemblyReference.cache
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.AssemblyInfo.cs
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.dll
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.pdb
+C:\Projekte\ubungen\Rabattaktion\Rabattaktion\obj\Debug\netcoreapp3.1\Rabattaktion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\InputCounter\InputCounter\bin\Debug\netcoreapp3.1\InputCounter.exe
+C:\Projekte\ubungen\InputCounter\InputCounter\bin\Debug\netcoreapp3.1\InputCounter.deps.json
+C:\Projekte\ubungen\InputCounter\InputCounter\bin\Debug\netcoreapp3.1\InputCounter.runtimeconfig.json
+C:\Projekte\ubungen\InputCounter\InputCounter\bin\Debug\netcoreapp3.1\InputCounter.runtimeconfig.dev.json
+C:\Projekte\ubungen\InputCounter\InputCounter\bin\Debug\netcoreapp3.1\InputCounter.dll
+C:\Projekte\ubungen\InputCounter\InputCounter\bin\Debug\netcoreapp3.1\InputCounter.pdb
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.csprojAssemblyReference.cache
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.AssemblyInfo.cs
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.dll
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.pdb
+C:\Projekte\ubungen\InputCounter\InputCounter\obj\Debug\netcoreapp3.1\InputCounter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\bin\Debug\netcoreapp3.1\Numbersoutput.exe
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\bin\Debug\netcoreapp3.1\Numbersoutput.deps.json
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\bin\Debug\netcoreapp3.1\Numbersoutput.runtimeconfig.json
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\bin\Debug\netcoreapp3.1\Numbersoutput.runtimeconfig.dev.json
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\bin\Debug\netcoreapp3.1\Numbersoutput.dll
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\bin\Debug\netcoreapp3.1\Numbersoutput.pdb
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.csprojAssemblyReference.cache
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.AssemblyInfo.cs
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.dll
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.pdb
+C:\Projekte\ubungen\Numbersoutput\Numbersoutput\obj\Debug\netcoreapp3.1\Numbersoutput.genruntimeconfig.cache

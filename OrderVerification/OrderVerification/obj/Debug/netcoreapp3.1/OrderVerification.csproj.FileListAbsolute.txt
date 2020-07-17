@@ -1,0 +1,12 @@
+C:\Projekte\ubungen\OrderVerification\OrderVerification\bin\Debug\netcoreapp3.1\OrderVerification.exe
+C:\Projekte\ubungen\OrderVerification\OrderVerification\bin\Debug\netcoreapp3.1\OrderVerification.deps.json
+C:\Projekte\ubungen\OrderVerification\OrderVerification\bin\Debug\netcoreapp3.1\OrderVerification.runtimeconfig.json
+C:\Projekte\ubungen\OrderVerification\OrderVerification\bin\Debug\netcoreapp3.1\OrderVerification.runtimeconfig.dev.json
+C:\Projekte\ubungen\OrderVerification\OrderVerification\bin\Debug\netcoreapp3.1\OrderVerification.dll
+C:\Projekte\ubungen\OrderVerification\OrderVerification\bin\Debug\netcoreapp3.1\OrderVerification.pdb
+C:\Projekte\ubungen\OrderVerification\OrderVerification\obj\Debug\netcoreapp3.1\OrderVerification.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\OrderVerification\OrderVerification\obj\Debug\netcoreapp3.1\OrderVerification.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\OrderVerification\OrderVerification\obj\Debug\netcoreapp3.1\OrderVerification.AssemblyInfo.cs
+C:\Projekte\ubungen\OrderVerification\OrderVerification\obj\Debug\netcoreapp3.1\OrderVerification.dll
+C:\Projekte\ubungen\OrderVerification\OrderVerification\obj\Debug\netcoreapp3.1\OrderVerification.pdb
+C:\Projekte\ubungen\OrderVerification\OrderVerification\obj\Debug\netcoreapp3.1\OrderVerification.genruntimeconfig.cache
