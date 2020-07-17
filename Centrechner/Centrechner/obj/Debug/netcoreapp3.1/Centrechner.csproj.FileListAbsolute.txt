@@ -1,0 +1,13 @@
+C:\Projekte\ubungen\Centrechner\Centrechner\bin\Debug\netcoreapp3.1\Centrechner.exe
+C:\Projekte\ubungen\Centrechner\Centrechner\bin\Debug\netcoreapp3.1\Centrechner.deps.json
+C:\Projekte\ubungen\Centrechner\Centrechner\bin\Debug\netcoreapp3.1\Centrechner.runtimeconfig.json
+C:\Projekte\ubungen\Centrechner\Centrechner\bin\Debug\netcoreapp3.1\Centrechner.runtimeconfig.dev.json
+C:\Projekte\ubungen\Centrechner\Centrechner\bin\Debug\netcoreapp3.1\Centrechner.dll
+C:\Projekte\ubungen\Centrechner\Centrechner\bin\Debug\netcoreapp3.1\Centrechner.pdb
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.csprojAssemblyReference.cache
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.csproj.CoreCompileInputs.cache
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.AssemblyInfoInputs.cache
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.AssemblyInfo.cs
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.dll
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.pdb
+C:\Projekte\ubungen\Centrechner\Centrechner\obj\Debug\netcoreapp3.1\Centrechner.genruntimeconfig.cache
