@@ -1,0 +1,18 @@
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ConsoleCards.dll
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojAssemblyReference.cache
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CopyComplete
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+D:\Dropbox\Coursera C# Unity\1 Intro C# Prog Unity\Module 2 Classes and Objects\Programming Assignment 2\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ConsoleCards.dll
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojAssemblyReference.cache
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CopyComplete
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+C:\Users\Benutzer1\Downloads\Neuer Ordner\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
