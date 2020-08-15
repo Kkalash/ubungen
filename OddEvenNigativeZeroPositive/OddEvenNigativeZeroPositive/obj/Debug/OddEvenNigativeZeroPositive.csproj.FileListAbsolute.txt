@@ -1,0 +1,7 @@
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\bin\Debug\ProgrammingAssignment3.exe.config
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\bin\Debug\ProgrammingAssignment3.exe
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\bin\Debug\ProgrammingAssignment3.pdb
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\obj\Debug\OddEvenNigativeZeroPositive.csprojAssemblyReference.cache
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\obj\Debug\OddEvenNigativeZeroPositive.csproj.CoreCompileInputs.cache
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\obj\Debug\ProgrammingAssignment3.exe
+D:\projekte\ubungen\OddEvenNigativeZeroPositive\OddEvenNigativeZeroPositive\obj\Debug\ProgrammingAssignment3.pdb

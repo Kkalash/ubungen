@@ -61,7 +61,7 @@ namespace OddEvenNigativeZeroPositive
                 }
                 else
                 {
-                    Console.WriteLine(0);
+                    Console.WriteLine("e " + "0");
                 }
 
                 // Don't add or modify any code below
